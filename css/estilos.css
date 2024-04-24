@@ -488,6 +488,9 @@ input[type="submit"] {
 	#seccionPrimera h1 {
 	font-size: 2.5rem;
 }
+	#seccionDos-pre {
+	flex-flow: column wrap;
+}
 	h2 {
 	font-size: 1.3rem;
 }
